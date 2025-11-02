@@ -7,7 +7,8 @@ Overview
 --------
 
 Fast C Test (FCTX) is an all in one header file that lets you create
-tests fast in C/C++. With FCTX you can write and run a test as fast as
+tests fast in C/C++ - by `Ian Blumel <https://github.com/nodef/fctx.c>`__.
+With FCTX you can write and run a test as fast as
 you can think about it. There is no need to write a test and register a
 test. Once the test is written it will be executed at runtime. There is
 no need for post-processing to generate a compilable file, you can run
@@ -19,7 +20,18 @@ Simply include, write your test, and compile.
 The FCTX principle design goal is to make it possible to quickly
 generate unit tests for C and C++ with little or no hassle.
 
-It is just a header, you only need #include.
+------------
+Installation
+------------
+
+Run::
+
+   $ npm i fctx.c
+
+And then include fct.h as follows::
+
+   #include "node_modules/fctx.c/include/fct.h"
+
 
 ----------
 What's New

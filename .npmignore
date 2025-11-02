@@ -1,0 +1,11 @@
+doc/
+examples/
+tests.
+ABBREVS
+astyle.conf
+CHECKLIST
+CONTRIB
+NEWS
+release-script
+TODO
+wikify.py

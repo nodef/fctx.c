@@ -1,0 +1,15 @@
+{
+  "name": "fctx.c",
+  "version": "1.6.1",
+  "description": "C unit testing in a header (works for C++ too!); Ian Blumel (2008).",
+  "keywords": ["c", "library", "mpeg", "testing", "unit test", "header only"],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/fctx.c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/fctx.c/issues"
+  },
+  "homepage": "https://github.com/nodef/fctx.c#readme"
+}
